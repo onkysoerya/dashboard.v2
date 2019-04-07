@@ -1,0 +1,6 @@
+.rdw-editor-main {
+    height: 100%;
+    overflow: auto;
+    box-sizing: border-box;
+    border: 1px solid #F1F1F1 !important;
+}

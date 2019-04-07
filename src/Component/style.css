@@ -1,0 +1,67 @@
+/* Bagian Dashboard Admin */
+.cardArea{ 
+    padding: 20px;
+    margin-top: 40px;
+}
+.cardImage{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    -webkit-box-shadow: 1px 3px 1px #9E9E9E;
+    -moz-box-shadow: 1px 3px 1px #9E9E9E;
+    box-shadow: 1px 3px 1px #9E9E9E;
+}
+.cardImage .img{
+    width: 100%;
+}
+.cardBody{
+    background-color: white;
+}
+.cardButton{
+    background-color: white;
+    height: 60px;
+    -webkit-box-shadow: 1px 3px 1px #9E9E9E;
+    -moz-box-shadow: 1px 3px 1px #9E9E9E;
+    box-shadow: 1px 3px 1px #9E9E9E;
+}
+.mbButton{
+    text-align: center;
+    margin-left: 30px;
+}
+
+/* end Dashboard Admin */
+/* . . . */
+/* Bagian Login Admin */
+.card-area-admin{
+    margin-top: 35px;
+    height: 90vh;
+    overflow: hidden;
+    padding: 0px;
+}
+.cardLeft{
+    background-color: #FFA674;
+    border-radius: 10px 0px 0px 10px;
+    height: 100%;
+}
+.imgLogin{
+    height: 250px;
+    margin: 165px 20px 20px 15px; 
+}
+.cardRight{
+    background-color:#F8F8F8; 
+    height: 100%;
+    border-radius: 0px 10px 10px 0px;   
+}
+.formLogin{
+    height: 100%;
+}
+.loginNim{
+    margin-top:250px;
+    padding: 10px;
+}
+.loginPassword{
+}
+.btnLogin{
+    width: 100%;
+    padding: 10px;
+}
